@@ -1,0 +1,9 @@
+C:\Users\Corry\Desktop\TickerPicker\TickerPicker\bin\Debug\TickerPicker.exe.config
+C:\Users\Corry\Desktop\TickerPicker\TickerPicker\bin\Debug\TickerPicker.exe
+C:\Users\Corry\Desktop\TickerPicker\TickerPicker\bin\Debug\TickerPicker.pdb
+C:\Users\Corry\Desktop\TickerPicker\TickerPicker\obj\Debug\TickerPicker.csprojAssemblyReference.cache
+C:\Users\Corry\Desktop\TickerPicker\TickerPicker\obj\Debug\TickerPicker.Properties.Resources.resources
+C:\Users\Corry\Desktop\TickerPicker\TickerPicker\obj\Debug\TickerPicker.csproj.GenerateResource.cache
+C:\Users\Corry\Desktop\TickerPicker\TickerPicker\obj\Debug\TickerPicker.exe
+C:\Users\Corry\Desktop\TickerPicker\TickerPicker\obj\Debug\TickerPicker.pdb
+C:\Users\Corry\Desktop\TickerPicker\TickerPicker\obj\Debug\TickerPicker.MainForm.resources
